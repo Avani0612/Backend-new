@@ -1,0 +1,11 @@
+{
+  "name": "chai-aurr-backend",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript,backend"
+  },
+  "author": "Avani Patel",
+  "license": "ISC"
+}
